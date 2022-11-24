@@ -1,7 +1,6 @@
 hello chinaunicom!hello git!222222222222
 hello chinaunicom!hello git!333333333333
 hello chinaunicom!hello git!
-<<<<<<< HEAD
 hello chinaunicom!hello git!master test
 hello chinaunicom!hello git!hot-fix test
 
